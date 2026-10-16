@@ -20,7 +20,7 @@ Para o desenvolvimento desse projeto, minha pretensão é utilizar ferramentas e
 - ***Engenharia de Requisitos***;
 - ***Diagramação UML***: Casos de Uso, Diagramas de Sequência, Diagramas de Colaboração, Diagramas de Classe.
 - ***Arquiteturas de Sistemas***;
-- ***Modelagem de Banco de Dados:***Modelagem Entidade Relacionamento, Diagrama Entidade Relacionamento, Normalização e Modelagem Lógica.
+- ***Modelagem de Banco de Dados:*** Modelagem Entidade Relacionamento, Diagrama Entidade Relacionamento, Normalização e Modelagem Lógica.
 - ***Código:*** Linguagem Python tanto para o Back-End quanto para o Front-End e SQL/PostgreSQL para o Banco de Dados.
 
 ## 🗂 Estrutura do Monorepo 
